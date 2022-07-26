@@ -42,9 +42,9 @@
 &nbsp;
 ***
 ## **🔥Netlify Live Link🔥**
-- [Web Design Landing Page]()
+- [Web Design Landing Page](https://live-proj-8-fullstackjsbootcamp.netlify.app/)
 
 &nbsp;
 ***
 ## **📷 Post Designing Screenshot 📷**
-![]()
+![](https://github.com/manikD1/Live-Project-8-Web-Design-Landing-Page/blob/main/Actual-Screenshot.JPG)
