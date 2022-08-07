@@ -87,6 +87,10 @@ body {
     margin-top: 50px;
 }
 
+.main-div{
+    position: relative;
+}
+
 .main-div::before{
     content: '';
     background: url(../images/backcover.svg) no-repeat right top;
@@ -113,4 +117,148 @@ body {
     position: relative;
     top: 160px;
     left: 110px;
+}
+
+
+/* Mobile Responsiveness */
+
+@media (max-width: 1830px){
+
+    body {
+        overflow: scroll;
+     }
+    
+     .imgs-div img:nth-child(3){
+        height: 780px;
+        position: relative;
+        left: 0;
+    }
+
+}
+
+@media (max-width: 1500px){
+
+    .nav-item{
+        font-size: 1em;
+    }
+
+    nav img{
+        height: 2em;
+    }
+
+    .signin-btn{
+        font-size: 1em;
+    }
+
+    .main-div nav{
+        justify-content: center;
+    }
+
+    .left-section h1{
+        font-size: 4em;
+    }
+
+    .left-section h4{
+        font-size: 1em;
+    }
+
+    .learn-more-btn{
+        font-size: 1em;
+    }
+
+    .imgs-div img:nth-child(3){
+        height: 500px;
+    }
+
+    .vector-img{
+        width: 4em;
+    }
+    
+    .vector-dot{
+        top: 170px;
+        left: 120px;
+        width: 0.8em;
+    }
+
+}
+
+@media (max-width: 1170px){
+
+    .intro-section{
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        margin-left: 0;
+    }
+
+    .left-section{
+        align-items: center;
+        justify-content: center;
+    }
+
+    .main-div nav{
+        flex-direction: column;
+    }
+
+    .nav-items{
+        margin: 2em 0;
+    }
+
+}
+
+
+@media (max-width: 720px){
+
+    .nav-items{
+        flex-direction: column;
+    }
+
+    .nav-item{
+        margin: 1em 0;
+        text-align: center;
+    }
+
+    .imgs-div img:nth-child(3){
+        height: 280px;
+    }
+
+    .vector-img{
+        width: 3em;
+        top: 150px;
+        left: 60px;
+    }
+    
+    .vector-dot{
+        top: 130px;
+        left: 40px;
+        width: 0.5em;
+    }
+
+    .left-section h1{
+        font-size: 2em;
+    }
+
+    .left-section h4{
+        font-size: 0.8em;
+        width: 250px;
+        text-align: center;
+        margin: 2em 0;
+    }
+
+    .learn-more-btn{
+        font-size: 1em;
+        margin-top: 0;
+    }
+
+    .left-section{
+        margin: 2em 0;
+        height: 300px;
+        width: 350px;
+    }
+
+    .imgs-div{
+        margin-top: 5em;
+    }
+
+
 }
