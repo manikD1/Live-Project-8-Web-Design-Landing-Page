@@ -50,6 +50,6 @@
 
 ![](https://github.com/manikD1/Live-Project-8-Web-Design-Landing-Page/blob/main/Screenshots/Actual-Screenshot.JPG)
 
-![](https://github.com/manikD1/Live-Project-8-Web-Design-Landing-Page/blob/main/Screenshots/Actual-Screenshot - 1.JPG)
+![](https://github.com/manikD1/Live-Project-8-Web-Design-Landing-Page/blob/main/Screenshots/Actual-Screenshot1.JPG)
 
-![](https://github.com/manikD1/Live-Project-8-Web-Design-Landing-Page/blob/main/Screenshots/Actual-Screenshot - 2.JPG)
+![](https://github.com/manikD1/Live-Project-8-Web-Design-Landing-Page/blob/main/Screenshots/Actual-Screenshot2.JPG)
